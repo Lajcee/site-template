@@ -1,0 +1,24 @@
+$primary : #abcdef;
+// $secondary : ;
+// $info : ;
+// $danger: ;
+// $warning:;
+// $success: ;
+// $jumbotron-bg  :;
+$headings-font-family :'Castoro', serif;
+
+
+
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+@import "../bootstrap-4.5.3/scss/bootstrap.scss";
+
+
+// body{
+//   background: blue;
+// }
+
+// font-family: 'Castoro', serif; //headings
+// font-family: 'Poppins', sans-serif; //paragraphs
